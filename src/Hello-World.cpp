@@ -11,5 +11,11 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+
+	int a;
+	a=23;
+	cout << a << endl;
 	return 0;
+
+
 }
